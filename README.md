@@ -1,4 +1,4 @@
-# front.local.eco-city.ru
+# Front-end part of website http://eco-city.developcraft.ru made with vue.
 
 ## Project setup
 ```
